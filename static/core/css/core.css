@@ -1,0 +1,38 @@
+
+
+.st-fonts{
+  font-family: "Edu NSW ACT Foundation", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+  html,
+  body{
+    height:100%
+  }
+  .container-fluid{
+    min-height:100%
+  }
+  .i-color{
+    color:chartreuse
+  }
+
+  .ss-color{
+    color:silver
+  }
+  .nav-link {
+    color: whitesmoke;
+}
+
+.nav-link:hover {
+    color: black;
+    background-color: #e9cd79;
+}
+
+.nav-link.active {
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
+
+  
